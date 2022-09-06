@@ -2,8 +2,7 @@
 
 Steps to set up docker swarm network:
 
-1. Set up 4VMs with the required fabric software . Refer link - https://kctheservant.medium.com/setup-a-hyperledger-fabric-host-and-create-a-machine-image-682859fd58ba (Hyperledger Fabric Version 1.4.1)
-2. To set up docker swarm, network, channel and deploy dummy chaincode refer link - https://kctheservant.medium.com/multi-host-setup-with-raft-based-ordering-service-29730788b171
+1. Set up 4VMs with the required fabric software . Refer link - https://kctheservant.medium.com/setup-a-hyperledger-fabric-host-and-create-a-machine-image-682859fd58ba (Hyperledger Fabric Version 1.4.1) to get the idea of the process. 
 
 
 Steps for hyperledger explorer:
